@@ -5,18 +5,17 @@ This project was made to mimic a smart doorbell software on a small scale. It us
 
 ## How it works
 
-When the program is run:
+When the program is started :
 1. The program initiates the camera and takes a picture of the user.
-2. The user speaks into the microphone identifying who he is and is also m ade to enter a pin.
-3. The program then compares the photo, the name and the pin to a user already present in the database.
-4. When everything matches, the user is verified and let in and the program closes.
-	* In case, the user is not verified, then the program sends an email to the concerned person with the photo of the person trying to get in.
+2. The user speaks into the microphone identifying who he is and is also made to enter a PIN.
+3. The program then compares the photo, the name and the PIN to a user already present in previously made database.
+4. When everything matches, the user is verified and let in and and email is sent to the concerned person just mentioning the name of the person entering.
+	* In case the user is not verified, the program sends an email attached with the photo of the person trying to get in.
+
+<br />
+<br />
+<br />
+<br /?
 
 
-
-
-
-
-
-
-#### PS. This project was made in 2020
+_PS. This project was made in 2020_
