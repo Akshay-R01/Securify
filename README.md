@@ -10,7 +10,7 @@ When the program is run:
 2. The user speaks into the microphone identifying who he is and is also m ade to enter a pin.
 3. The program then compares the photo, the name and the pin to a user already present in the database.
 4. When everything matches, the user is verified and let in and the program closes.
-  * In case, the user is not verified, then the program sends an email to the concerned person with the photo of the person trying to get in.
+	* In case, the user is not verified, then the program sends an email to the concerned person with the photo of the person trying to get in.
 
 
 
